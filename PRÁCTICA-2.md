@@ -1,5 +1,5 @@
 # LA GASOLINA A NIVELES DESORBITADOS
-## El precio del combustible ha aumentado debido a la guerra entre Rusia y Ucrania
+## El precio del combustible aumenta debido a la guerra entre Rusia y Ucrania
 
 ![Evolución del precio diario de la gasolina. Precio en euros por litro del promedio nacional](https://user-images.githubusercontent.com/99663648/158076319-2d0fe7f8-39fa-4384-a708-42b8d06beadd.jpg)
 
